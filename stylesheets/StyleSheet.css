@@ -107,7 +107,7 @@ h1 a, h1 a:link, h1 a:visited, h1 a:hover, h2 a, h2 a:link, h2 a:visited, h2 a:h
 #art-page-background-gradient
 {
     position: absolute;
-    background-image: url('../images/page_g.jpg');
+    background-image: url('https://raw.githubusercontent.com/ncmips/OfflineData/master/images/page_g.jpg');
     background-repeat: repeat-x;
     top: 0;
     width: 100%;
@@ -118,7 +118,7 @@ h1 a, h1 a:link, h1 a:visited, h1 a:hover, h2 a, h2 a:link, h2 a:visited, h2 a:h
 #art-page-background-simple-gradient
 {
     position: absolute;
-    background-image: url('../images/page_sg.jpg');
+    background-image: url('https://raw.githubusercontent.com/ncmips/OfflineData/master/images/page_sg.jpg');
     background-repeat: repeat-x;
     top: 0;
     width: 100%;
@@ -177,7 +177,7 @@ table.position
 {
     width: 32px;
     height: 32px;
-    background-image: url('../images/sheet_s.png');
+    background-image: url('https://raw.githubusercontent.com/ncmips/OfflineData/master/images/sheet_s.png');
 }
 
 .art-sheet-tl
@@ -213,7 +213,7 @@ table.position
     left: 16px;
     right: 16px;
     height: 32px;
-    background-image: url('../images/sheet_h.png');
+    background-image: url('https://raw.githubusercontent.com/ncmips/OfflineData/master/images/sheet_h.png');
 }
 
 .art-sheet-tc
@@ -233,7 +233,7 @@ table.position
     top: 16px;
     bottom: 16px;
     width: 32px;
-    background-image: url('../images/sheet_v.png');
+    background-image: url('https://raw.githubusercontent.com/ncmips/OfflineData/master/images/sheet_v.png');
 }
 
 .art-sheet-cr
@@ -354,7 +354,7 @@ table.position
 
 .art-menu ul
 {
-    background-image: url(../images/spacer.gif);
+    background-image: url(https://raw.githubusercontent.com/ncmips/OfflineData/master/images/spacer.gif);
     padding: 10px 30px 30px 30px;
     margin: -10px 0 0 -30px;
 }
@@ -388,7 +388,7 @@ table.position
     z-index: -1;
     top: 0;
     height: 24px;
-    background-image: url('../images/nav.png');
+    background-image: url('https://raw.githubusercontent.com/ncmips/OfflineData/master/images/nav.png');
 }
 
 .art-nav .l
@@ -438,7 +438,7 @@ table.position
     top: 0;
     z-index: -1;
     height: 72px;
-    background-image: url('../images/menuitem.png');
+    background-image: url('https://raw.githubusercontent.com/ncmips/OfflineData/master/images/menuitem.png');
 }
 
 .art-menu a .l
@@ -512,7 +512,7 @@ table.position
     display: block;
     width: 1px;
     height: 24px;
-    background-image: url('../images/menuseparator.png');
+    background-image: url('https://raw.githubusercontent.com/ncmips/OfflineData/master/images/menuseparator.png');
 }
 /* end MenuSeparator */
 
@@ -526,7 +526,7 @@ table.position
     width: 180px;
     overflow: hidden;
     line-height: 38px;
-    background-image: url('../images/subitem.png');
+    background-image: url('https://raw.githubusercontent.com/ncmips/OfflineData/master/images/subitem.png');
     background-position: left top;
     background-repeat: repeat-x;
     border-width: 1px;
@@ -605,8 +605,8 @@ div.art-header-jpeg
     top: 0;
     left: 0;
     width: 898px;
-    height: 120PX; /*background: url('../images/heading-01.gif') left top repeat-x;*/
-    background-image: url('../images/header3.jpg');
+    height: 120PX; /*background: url('https://raw.githubusercontent.com/ncmips/OfflineData/master/images/heading-01.gif') left top repeat-x;*/
+    background-image: url('https://raw.githubusercontent.com/ncmips/OfflineData/master/images/header3.jpg');
     background-repeat: no-repeat;
     background-position: center center;
 }
@@ -844,7 +844,7 @@ div.art-content-layout-row
 {
     width: 18px;
     height: 18px;
-    background-image: url('../images/block_s.png');
+    background-image: url('https://raw.githubusercontent.com/ncmips/OfflineData/master/images/block_s.png');
 }
 
 .art-block-tl
@@ -880,7 +880,7 @@ div.art-content-layout-row
     left: 9px;
     right: 9px;
     height: 18px;
-    background-image: url('../images/block_h.png');
+    background-image: url('https://raw.githubusercontent.com/ncmips/OfflineData/master/images/block_h.png');
 }
 
 .art-block-tc
@@ -900,7 +900,7 @@ div.art-content-layout-row
     top: 9px;
     bottom: 9px;
     width: 18px;
-    background-image: url('../images/block_v.png');
+    background-image: url('https://raw.githubusercontent.com/ncmips/OfflineData/master/images/block_v.png');
 }
 
 .art-block-cr
@@ -1014,7 +1014,7 @@ div.art-content-layout-row
 {
     line-height: 1.25em;
     padding: 0 0 0 16px;
-    background-image: url('../images/blockcontentbullets.png');
+    background-image: url('https://raw.githubusercontent.com/ncmips/OfflineData/master/images/blockcontentbullets.png');
     background-repeat: no-repeat;
 }
 
@@ -1173,7 +1173,7 @@ pre
 
 .art-post ul li, .art-post ol ul li
 {
-    background-image: url('../images/postbullets.png');
+    background-image: url('https://raw.githubusercontent.com/ncmips/OfflineData/master/images/postbullets.png');
     background-repeat: no-repeat;
     padding-left: 16px;
     color: #485D61;
@@ -1193,7 +1193,7 @@ blockquote, .art-postcontent blockquote
     margin: 10px 10px 10px 50px;
     padding: 5px 5px 5px 41px;
     background-color: #EDF1F2;
-    background-image: url('../images/postquote.png');
+    background-image: url('https://raw.githubusercontent.com/ncmips/OfflineData/master/images/postquote.png');
     background-position: left top;
     background-repeat: no-repeat;
 }
@@ -1202,7 +1202,7 @@ blockquote, .art-postcontent blockquote
 {
     margin: 10px 10px 10px 10px;
     padding: 1px 1px 1px 25px;
-    background-color: #EDF1F2; /*background-image: url('../images/postquote.png');*/
+    background-color: #EDF1F2; /*background-image: url('https://raw.githubusercontent.com/ncmips/OfflineData/master/images/postquote.png');*/
     background-position: left top;
     background-repeat: no-repeat;
 }
@@ -1232,7 +1232,7 @@ blockquote, .art-postcontent blockquote
     position: absolute;
     z-index: -1;
     background-repeat: no-repeat;
-    background-image: url('../images/footer.png'); /*/bg-head.png');*/
+    background-image: url('https://raw.githubusercontent.com/ncmips/OfflineData/master/images/footer.png'); /*/bg-head.png');*/
     width: 898px;
     height: 150px;
     bottom: 0;
@@ -1245,7 +1245,7 @@ blockquote, .art-postcontent blockquote
     position: relative;
     display: block;
     float: left;
-    background-image: url('../images/top.png');
+    background-image: url('https://raw.githubusercontent.com/ncmips/OfflineData/master/images/top.png');
     background-position: center right;
     background-repeat: no-repeat;
     margin: 0 5px 0 0;
@@ -1457,7 +1457,7 @@ div.centered table
 {
     width: 63px;
     height: 22px;
-    background: url("../images/applyButton3.png") no-repeat;
+    background: url("https://raw.githubusercontent.com/ncmips/OfflineData/master/images/applyButton3.png") no-repeat;
     color: #fff;
     text-shadow: 0 -1px 0 #325769;
     text-align: center;
@@ -1471,7 +1471,7 @@ div.centered table
 {
     width: 120px;
     height: 22px;
-    background: url("../images/CouponSubmit2.png") no-repeat;
+    background: url("https://raw.githubusercontent.com/ncmips/OfflineData/master/images/CouponSubmit2.png") no-repeat;
     color: #fff;
     text-shadow: 0 -1px 0 #325769;
     text-align: center;
@@ -1499,7 +1499,7 @@ div.centered table
 {
     line-height: 1.25em;
     padding: 0 0 0 16px;
-    background-image: url('../images/blockcontentbullets.png');
+    background-image: url('https://raw.githubusercontent.com/ncmips/OfflineData/master/images/blockcontentbullets.png');
     background-repeat: no-repeat;
 }
 .error
