@@ -1,0 +1,77 @@
+﻿.divHeaderTable
+{
+    width: 100%;
+    padding-bottom: 5px;
+    display: block;
+}
+
+.divHeaderRow
+{
+    width: 100%;
+    display: block;
+    height: 105px;
+}
+
+.divHeaderColumn
+{
+    float: left;
+    width: 33%;
+    display: block;
+}
+
+.divTable
+{
+    width: 100%;
+    display: block;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+    padding-left: 10px;
+}
+
+.divRow
+{
+    width: 99%;
+    display: block;
+    padding-bottom: 5px;
+}
+
+.divColumn
+{
+    float: left;
+    width: auto;
+    display: block;
+}
+
+table.main
+{
+    width: 100%;
+}
+
+td.column1
+{
+    border: 0px solid black;
+    width: 85px;
+    vertical-align: top;
+}
+
+td.TB
+{
+    width: 85px;
+    vertical-align: middle;
+}
+
+td.default
+{
+    border: 0px solid black;
+    width: auto;
+}
+
+.box
+{
+    width: 100%;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+}
+
